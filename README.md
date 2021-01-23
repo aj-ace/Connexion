@@ -6,6 +6,6 @@ Everyone on the network will be able to communicate with each other by mail
 
 They will also be able to maintain their own personal blog, and view other user's blog
 
-The client folder contains the front-end web client code built using Reactjs and Material UI (UI framework)
+The client folder contains the front-end web client code built using reactjs and material UI
 
 The contract folder contains the smart contract code (ethereum contract)
